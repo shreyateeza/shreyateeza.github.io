@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-29T21:02:41+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Shreya</title><subtitle>My Website
+</subtitle><author><name>shreyateeza</name></author><entry><title type="html">Tuples_n_lists</title><link href="http://localhost:4000/2018/11/12/tuples_n_lists.html" rel="alternate" type="text/html" title="Tuples_n_lists" /><published>2018-11-12T00:00:00+05:30</published><updated>2018-11-12T00:00:00+05:30</updated><id>http://localhost:4000/2018/11/12/tuples_n_lists</id><content type="html" xml:base="http://localhost:4000/2018/11/12/tuples_n_lists.html">&lt;h2 id=&quot;tuples-n-lists&quot;&gt;Tuples n Lists&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tuples encloses the data items in round brackets and Lists encloses items in square brackets.&lt;/li&gt;
+  &lt;li&gt;Tuples are immutable and hence cannot be copied whereas Lists are mutable and can be copied.&lt;/li&gt;
+  &lt;li&gt;There’s a strong culture of tuples being for heterogeneous collection and lists for being homogeneous collection.&lt;/li&gt;
+  &lt;li&gt;Performing operations on tuples is faster than that of list.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Considering &lt;em&gt;tuples and lists&lt;/em&gt; as two different sets of people. We see that Tuples are open to every type of people,
+are strict to changes around them, they don’t wanna be imitated and are &lt;strong&gt;fast and furious&lt;/strong&gt;. On the other hand,
+Lists are not open to many, usually respond to stimuli around them and improve themselves, can be followed from down,
+and are &lt;strong&gt;slow and steady&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;On comparing we observe that some might like to be amongst the tuples and some like lists. But the harsh and supple
+truth is that both type of people are required to exist and one must be like both of them. If one hand is Tuple and
+other hand is list, then its amust to observe and accept wholeheartedly that both hands are required to clap because
+one is incomplete without other.&lt;/p&gt;</content><author><name>shreyateeza</name></author><summary type="html">Tuples n Lists Tuples encloses the data items in round brackets and Lists encloses items in square brackets. Tuples are immutable and hence cannot be copied whereas Lists are mutable and can be copied. There’s a strong culture of tuples being for heterogeneous collection and lists for being homogeneous collection. Performing operations on tuples is faster than that of list.</summary></entry><entry><title type="html">My Example Post</title><link href="http://localhost:4000/2016/05/20/my-example-post.html" rel="alternate" type="text/html" title="My Example Post" /><published>2016-05-20T00:00:00+05:30</published><updated>2016-05-20T00:00:00+05:30</updated><id>http://localhost:4000/2016/05/20/my-example-post</id><content type="html" xml:base="http://localhost:4000/2016/05/20/my-example-post.html">&lt;p&gt;Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.&lt;/p&gt;
+
+&lt;p&gt;No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.&lt;/p&gt;</content><author><name>shreyateeza</name></author><summary type="html">Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.</summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00+05:30</published><updated>2016-05-20T00:00:00+05:30</updated><id>http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
+
+&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
+
+&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+
+&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
+
+&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+
+&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First item, yo&lt;/li&gt;
+  &lt;li&gt;Second item, dawg&lt;/li&gt;
+  &lt;li&gt;Third item, what what?!&lt;/li&gt;
+  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First item, yo&lt;/li&gt;
+  &lt;li&gt;Second item, dawg&lt;/li&gt;
+  &lt;li&gt;Third item, what what?!&lt;/li&gt;
+  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
+
+&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Title 1&lt;/th&gt;
+      &lt;th&gt;Title 2&lt;/th&gt;
+      &lt;th&gt;Title 3&lt;/th&gt;
+      &lt;th&gt;Title 4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td&gt;lorem ipsum&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Title 1&lt;/th&gt;
+      &lt;th&gt;Title 2&lt;/th&gt;
+      &lt;th&gt;Title 3&lt;/th&gt;
+      &lt;th&gt;Title 4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td&gt;lorem ipsum&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td&gt;lorem ipsum&lt;/td&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td&gt;lorem ipsum&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Bart Simpson</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry></feed>
