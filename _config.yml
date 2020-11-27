@@ -1,4 +1,4 @@
-title: Shreya
+title: Shreya Prasad
 author: shreyateeza
 email: shreyateeza@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
@@ -42,7 +42,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minima
 
 plugins:
  - jekyll-feed
