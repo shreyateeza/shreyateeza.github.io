@@ -8,7 +8,7 @@ permalink: /about/
   
 I am ***Shreya Prasad***. I am a Software Engineer Associate at Telstra in Bengaluru.
 I pursued graduation from Netaji Subhas University of Technology, Delhi from Instrumentation and Control Engineering branch.  
-  
+
 On going through most of my [projects](https://shreyateeza.github.io/projects/) you would observe that I am highly interested  
 in Machine Learning and Data Science.
 
@@ -20,6 +20,7 @@ RESTful Web Services | Microservices
 
 #### 𝐒𝐤𝐢𝐥𝐥𝐬 𝐈 𝐡𝐚𝐯𝐞 𝐰𝐨𝐫𝐤𝐞𝐝 𝐮𝐩𝐨𝐧:
 Regression | Classification | Clustering
+Artificial Neural Network | Convolutional Neural Network
 Numpy | Pandas | Matplotlib | Seaborn
 Statistics | Probability
 Git | Neo4j
