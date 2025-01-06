@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Personal Projects
 1. [**Credit Card Fraud Detection**](https://github.com/shreyateeza/Credit_Card_Fraud_Detection)
 	- Predicted whether a credit card transaction is fraudulent or not.
 	- Obtained 99.6% accuracy using ANN and sampling.

@@ -4,8 +4,6 @@ title: Certifications
 permalink: /certifications/
 ---
 
-### Certifications
-
 1. [Data Analysis with Python](https://freecodecamp.org/certification/shreyateeza/data-analysis-with-python-v7)
 
 2. Microsoft Certified: Azure Data Scientist Associate (Issued October 2022)
