@@ -46,7 +46,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -71,5 +71,5 @@ minima:
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
     - { platform: twitter,        user_url: "https://twitter.com/shreyateeza" }
     - { platform: x,              user_url: "https://x.com/shreyateeza" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/shreyateeza" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@shreyateeza" }
 
