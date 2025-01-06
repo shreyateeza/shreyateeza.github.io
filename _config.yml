@@ -32,7 +32,6 @@ header_pages:
  - projects.md
  - certifications.md
  - achievements.md
- - contact.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: false
