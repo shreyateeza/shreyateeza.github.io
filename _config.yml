@@ -1,0 +1,6 @@
+remote_theme: pages-themes/architect@v0.2.0
+title: Shreya Prasa (shreyateeza)
+description: Shreya Prasad's Portfolio and Blog
+plugins:
+- jekyll-remote-theme 
+gem "github-pages", group: :jekyll_plugins
