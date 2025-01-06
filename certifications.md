@@ -1,6 +1,6 @@
 ---
-layout: certifications
-title: Certifications Earned
+layout: page
+title: Certifications
 permalink: /certifications/
 ---
 
