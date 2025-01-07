@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Tuples and Lists
 ---
 
 1. Tuples encloses the data items in round brackets and Lists encloses items in square brackets.
