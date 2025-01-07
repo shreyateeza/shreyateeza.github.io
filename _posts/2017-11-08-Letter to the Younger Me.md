@@ -2,8 +2,6 @@
 layout: post
 ---
 
-## Letter to the Younger Me
-
 Dear Younger Me,
 
 I am writing you this letter to make you fully aware about your future. Be very attentive to it. The first and foremost thing is always be happy and stop thinking about the future. Do live in present. Make friends and have fun! Because you are not going to get this day again in your life. In short, “Work Hard, Play Hard”.
