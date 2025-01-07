@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Letter to the Younger Me
 ---
 
 Dear Younger Me,
