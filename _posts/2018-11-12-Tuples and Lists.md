@@ -2,7 +2,6 @@
 layout: post
 ---
 
-## Tuples n Lists
 1. Tuples encloses the data items in round brackets and Lists encloses items in square brackets.
 2. Tuples are immutable and hence cannot be copied whereas Lists are mutable and can be copied.
 3. There's a strong culture of tuples being for heterogeneous collection and lists for being homogeneous collection.
