@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 1. [**Web Scraping Using BeautifulSoup**](https://shreyateeza.github.io/Web_Scraping_Using_BeautifulSoup/)  
-   	- Here, I scraped the Beautiful Soup Tutorials Point Webpage and extracted the details, souped the page, navigated the tags, searched the tree, and modified the tree.  
+	- Here, I scraped the Beautiful Soup Tutorials Point Webpage and extracted the details, souped the page, navigated the tags, searched the tree, and modified the tree.  
 
 3. [**Credit Card Fraud Detection**](https://github.com/shreyateeza/Credit_Card_Fraud_Detection)
 	- Predicted whether a credit card transaction is fraudulent or not.
