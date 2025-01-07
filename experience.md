@@ -18,7 +18,7 @@ permalink: /experience/
     * Used Spring Core annotations for Spring Dependency Injection, Spring MVC for REST APIs and Spring Boot for Microservices.
     * Undergoing all round development courses like Data Analytics, Communication Foundations, Critical Thinking Diversity-Inclusion-Belonging etc.
 
-2. **Web Developer Intern, Qdero**
+2. **Web Developer Intern, Creer**
     * Redesigned web pages using technologies such as HTML, CSS, ReactJS and NodeJS.
     * Fixed bugs and implemented enhancements that significantly improved the web functionality.
 
