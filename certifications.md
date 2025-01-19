@@ -8,7 +8,7 @@ permalink: /certifications/
 
 2. [Data Analysis with Python](https://freecodecamp.org/certification/shreyateeza/data-analysis-with-python-v7)
 
-3. Microsoft Certified: Azure Data Scientist Associate (Issued October 2022)
+3. [Microsoft Certified: Azure Data Scientist Associate (Issued October 2022)](https://www.linkedin.com/posts/shreyateeza_microsoft-certified-azure-data-scientist-activity-6984870449255968768-humJ?utm_source=share&utm_medium=member_desktop)  
 
 4. [Python, HackerRank](https://www.hackerrank.com/certificates/6d2a912ed053)
 
