@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chanakya In The Classroom
+title: Chanakya In The Classroom By Radhakrishnan Pillai  
 ---
 
 ## Thinking like Chanakya Can Make You the Best Student in Class
