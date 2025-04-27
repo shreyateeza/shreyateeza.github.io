@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-1. **Software Engineer Senior Associate, Telstra**
+<!-- 1. **Software Engineer Senior Associate, Telstra**
     * Appreciated by the team for scoring a total of 18 story points in the 3 consecutive sprints.
     * Designed, developed, and maintained data processing pipelines using Pyspark.
     * Build and optimized data ingestion and integration processes for data from various sources.
@@ -29,4 +29,6 @@ permalink: /experience/
     * Munged and explored datasets from the shell and consolidated datasets into a single file.
     * Predicted cars’ prices using K-nearest neighbors.
 
+ -->
 
+[ UNDER CONSTRUCTION ]
