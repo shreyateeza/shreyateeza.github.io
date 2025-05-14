@@ -76,24 +76,24 @@ minima:
 
 
 social_links:
-    - title: shreyateeza at GitHub
-      icon: github
-      url: "https://github.com/shreyateeza"
-    - title: shreyateeza at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/shreyateeza"
-    - title: shreyateeza at devto
-      icon: devto
-      url: "https://dev.to/shreyateeza"
-    - title: shreyateeza at Facebook
-      icon: facebook
-      url: "https://www.facebook.com/shreyateeza"
-    - title: shreyateeza at Instagram
-      icon: instagram
-      url: "https://www.instagram.com/shreyateeza"
-    - title: shreyateeza at LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/shreyateeza"
-    - title: shreyateeza at YouTube
-      icon: youtube
-      url: "https://www.youtube.com/@shreyateeza"
+  - title: shreyateeza at GitHub
+    icon: github
+    url: "https://github.com/shreyateeza"
+  - title: shreyateeza at X (formerly Twitter)
+    icon: x-twitter
+    url: "https://x.com/shreyateeza"
+  - title: shreyateeza at devto
+    icon: devto
+    url: "https://dev.to/shreyateeza"
+  - title: shreyateeza at Facebook
+    icon: facebook
+    url: "https://www.facebook.com/shreyateeza"
+  - title: shreyateeza at Instagram
+    icon: instagram
+    url: "https://www.instagram.com/shreyateeza"
+  - title: shreyateeza at LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/shreyateeza"
+  - title: shreyateeza at YouTube
+    icon: youtube
+    url: "https://www.youtube.com/@shreyateeza"
