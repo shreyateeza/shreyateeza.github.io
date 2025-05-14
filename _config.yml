@@ -26,7 +26,7 @@ plugins:
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
+nav_pages:
  - about.md
  - experience.md
  - projects.md
