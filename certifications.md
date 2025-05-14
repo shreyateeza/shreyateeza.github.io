@@ -21,3 +21,7 @@ permalink: /certifications/
 8. [Problem Solving, HackerRank](https://www.hackerrank.com/certificates/13a43c60532e)
 
 9. [Productivity Mastery Hacks - Work Less, Do More](https://www.udemy.com/certificate/UC-fcaa7eb4-3662-4531-8886-3b7cd1051094/)
+
+10. [Data Engineer Program, Dataquest](https://app.dataquest.io/view_cert/S1OXT4V2QUDW73D7ENRI)
+
+11. [Data Scientist in Python Program, Dataquest](https://app.dataquest.io/view_cert/ZFOS6EW7DRUBRPH1KGWE)
